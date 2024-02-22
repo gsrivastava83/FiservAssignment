@@ -1,0 +1,5 @@
+{
+"xpath_searchbox" : "//textarea[@title='Search']",
+"xpath_results" : "//div[@id='result-stats']",
+"xpath_items" : "//div[contains(@class,'mnr-c c3mZkd pla-unit')]//span[@style='-webkit-line-clamp:2']"
+}
